@@ -5,7 +5,7 @@ Complete ownership belongs to Lara Abouelnour
 
 Run the file 'Game.c'to run the game.
 All other files are .txt files that contain the scenes, rules, and database of the game.
-All .txt files are conntained within the 'Game txt Files.zip' folder.
+All .txt files are contained within the 'Game txt Files.zip' folder.
 
 Check out the 'Knight Vs Dragon.mp4' File for a preview of what to expect :)
 
