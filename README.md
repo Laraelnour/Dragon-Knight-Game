@@ -1,5 +1,6 @@
 # Dragon-Knight-Game
-A simple C game of a knight fighting dragons and rescuing pedestrians created on Codeblocks
+A simple C game of a knight fighting dragons and rescuing pedestrians created on Codeblocks.
+
 Complete ownership belongs to Lara Abouelnour
 
 Run the file 'Game.c'to run the game.
